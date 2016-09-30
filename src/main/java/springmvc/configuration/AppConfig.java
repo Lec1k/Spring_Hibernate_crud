@@ -39,5 +39,5 @@ public class AppConfig {
         return messageSource;
 
     }
-    
+
 }
